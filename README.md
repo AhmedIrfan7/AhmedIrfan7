@@ -1,89 +1,77 @@
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:1a73e8&height=200&section=header&text=Ahmed%20Irfan&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer&descSize=22&descAlignY=55&descColor=8b949e" width="100%" />
 
-  <br/><br/>
+```
 
-  <a href="https://github.com/AhmedIrfan7">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=45&lines=Building+AI+Agents+with+LangChain;Deploying+Production+AI+Systems;Automating+Workflows+with+N8N;Shipping+Code+That+Matters" />
-  </a>
 
-  <br/><br/>
+        █████╗ ██╗  ██╗███╗   ███╗███████╗██████╗     ██╗██████╗ ███████╗ █████╗ ███╗   ██╗
+       ██╔══██╗██║  ██║████╗ ████║██╔════╝██╔══██╗    ██║██╔══██╗██╔════╝██╔══██╗████╗  ██║
+       ███████║███████║██╔████╔██║█████╗  ██║  ██║    ██║██████╔╝█████╗  ███████║██╔██╗ ██║
+       ██╔══██║██╔══██║██║╚██╔╝██║██╔══╝  ██║  ██║    ██║██╔══██╗██╔══╝  ██╔══██║██║╚██╗██║
+       ██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██████╔╝    ██║██║  ██║██║     ██║  ██║██║ ╚████║
+       ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝     ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝
 
-  <a href="mailto:ahmedirfancodes@gmail.com"><img src="https://img.shields.io/badge/Gmail-ahmedirfancodes-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/AhmedIrfan7"><img src="https://img.shields.io/badge/GitHub-AhmedIrfan7-181717?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=AhmedIrfan7&style=flat-square&color=58a6ff" />
 
-</div>
+                    A I    E N G I N E E R   ·   B U I L D E R   ·   S H I P P E R
 
-<br/>
 
-<!-- ─────────────────────────────────────────── -->
+```
 
-## Hey there! :wave:
-
-I'm an **AI Engineer** who builds intelligent systems and actually **puts them in production**. I work across the full pipeline — from designing multi-agent architectures with **LangChain** & **LangGraph**, to automating business workflows with **N8N**, to deploying full-stack apps that real users interact with.
-
-> *I don't stop at the notebook. If it doesn't deploy, it doesn't count.*
-
-<br/>
-
-<!-- ─────────────────────────────────────────── -->
-
-## :wrench: What I Work With
-
-<div align="center">
-<br/>
-
-| **AI & Agents** | **Automation** | **Full-Stack** | **Low-Level** |
-|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=python" width="40" /> | <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="40" /> | <img src="https://skillicons.dev/icons?i=nextjs" width="40" /> | <img src="https://skillicons.dev/icons?i=cpp" width="40" /> |
-| <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" /> | <img src="https://skillicons.dev/icons?i=fastapi" width="40" /> | <img src="https://skillicons.dev/icons?i=js" width="40" /> | <img src="https://skillicons.dev/icons?i=c" width="40" /> |
-| <img src="https://cdn.simpleicons.org/openai/412991" width="40" /> | <img src="https://cdn.simpleicons.org/socketdotio/010101" width="40" /> | <img src="https://skillicons.dev/icons?i=mongodb" width="40" /> | <img src="https://cdn.simpleicons.org/assemblyscript/007AAC" width="40" /> |
-| <img src="https://cdn.simpleicons.org/jupyter/F37626" width="40" /> | <img src="https://cdn.simpleicons.org/googledrive/4285F4" width="40" /> | <img src="https://skillicons.dev/icons?i=vercel" width="40" /> | <img src="https://skillicons.dev/icons?i=linux" width="40" /> |
-| LangChain | N8N | Next.js | C++ |
-| LangGraph | FastAPI | MongoDB | C |
-| OpenAI | WebSockets | Vercel | x86 ASM |
-
-<br/>
-</div>
-
-<br/>
-
-<!-- ─────────────────────────────────────────── -->
-
-## :rocket: What I've Built
-
-<br/>
-
-<div align="center">
-
-> **:brain: AI AGENT SYSTEMS** — *Multi-agent architectures that think, reason, and act*
+<a href="mailto:ahmedirfancodes@gmail.com"><img src="https://img.shields.io/badge/-ahmedirfancodes@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/AhmedIrfan7"><img src="https://img.shields.io/badge/-AhmedIrfan7-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 </div>
 
-<table>
+<br/>
+
+```yaml
+name:        Ahmed Irfan
+role:        AI Engineer
+focus:       Multi-agent systems · Workflow automation · Production deployment
+philosophy:  "If it doesn't deploy, it doesn't count."
+status:      [open to opportunities] [shipping daily]
+```
+
+<br/>
+
+---
+
+<h2 align="center">::  what i actually do  ::</h2>
+
+<br/>
+
+<table align="center" width="100%">
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="33%" valign="top">
 
-<h3><a href="https://github.com/AhmedIrfan7/Enterprise_Agentic_Workflow_Engine">:zap: Enterprise Agentic Workflow Engine</a></h3>
-
-A **production-grade** AI workflow engine where LangChain agents collaborate in real-time via WebSocket streaming. Not a demo — built to handle real workloads.
-
+###  :brain:  &nbsp; **Design**
 <br/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+I architect **multi-agent systems** — figuring out how agents should reason, hand off tasks, share memory, and recover from failure.
+
+`LangGraph` · `LangChain`
+`State machines` · `RAG`
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="33%" valign="top">
 
-<h3><a href="https://github.com/AhmedIrfan7/multi-agent-research-assistant">:mag: Multi-Agent Research Assistant</a></h3>
-
-**4 specialized LangGraph agents** working together — one researches, one analyzes, one writes, one reviews. Full-stack app with a real UI, not just a script.
-
+###  :hammer_and_wrench:  &nbsp; **Build**
 <br/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/Multi--Agent-blueviolet?style=flat-square" />
+I build the engine. **WebSocket streaming, FastAPI backends, vector pipelines, tool-calling loops** — the plumbing that makes agents actually work.
+
+`Python` · `FastAPI`
+`WebSockets` · `MongoDB`
+
+</td>
+<td align="center" width="33%" valign="top">
+
+###  :rocket:  &nbsp; **Ship**
+<br/>
+
+I take it from notebook to **production URL** — Next.js frontends, Vercel deployments, N8N automations users actually run.
+
+`Next.js` · `Vercel`
+`N8N` · `Docker`
 
 </td>
 </tr>
@@ -91,39 +79,24 @@ A **production-grade** AI workflow engine where LangChain agents collaborate in 
 
 <br/>
 
+---
+
+<h2 align="center">::  selected work  ::</h2>
+
+<br/>
+
 <div align="center">
 
-> **:gear: AUTOMATION & AI WORKFLOWS** — *Systems that run themselves*
-
-</div>
-
-<table>
+<!-- Project 1 — Hero -->
+<table width="92%">
 <tr>
-<td width="33%" valign="top">
+<td>
 
-<h3><a href="https://github.com/AhmedIrfan7/AI_Support_Router_N8N">:incoming_envelope: AI Support Router</a></h3>
+###  :zap:  &nbsp; [**Enterprise Agentic Workflow Engine**](https://github.com/AhmedIrfan7/Enterprise_Agentic_Workflow_Engine)
 
-Local AI model classifies incoming Gmail and routes them to the right team. **Zero manual sorting.**
+> A production-grade orchestration engine where multiple **LangChain agents** collaborate over **real-time WebSocket streams**. Built so non-engineers can chain together AI workflows that run reliably under load.
 
-<img src="https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/AI-412991?style=flat-square&logo=openai&logoColor=white" />
-
-</td>
-<td width="33%" valign="top">
-
-<h3><a href="https://github.com/AhmedIrfan7/RAG_Pipeline_Chatbot_N8N">:books: RAG Pipeline Chatbot</a></h3>
-
-Watches Google Drive, ingests docs, and answers questions using **retrieval-augmented generation**.
-
-<img src="https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/RAG-FF6F00?style=flat-square" />
-
-</td>
-<td width="33%" valign="top">
-
-<h3><a href="https://github.com/AhmedIrfan7/LinkedInContentCreatorN8N">:pencil: LinkedIn Content Creator</a></h3>
-
-Pulls data from Google Sheets, generates professional posts, and queues them. **Content on autopilot.**
-
-<img src="https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/Automation-blue?style=flat-square" />
+**`Python`**  &nbsp;·&nbsp;  **`LangChain`**  &nbsp;·&nbsp;  **`WebSockets`**  &nbsp;·&nbsp;  **`FastAPI`**
 
 </td>
 </tr>
@@ -131,30 +104,16 @@ Pulls data from Google Sheets, generates professional posts, and queues them. **
 
 <br/>
 
-<div align="center">
-
-> **:globe_with_meridians: FULL-STACK & DEPLOYED** — *Apps that real users touch*
-
-</div>
-
-<table>
+<!-- Project 2 — Hero -->
+<table width="92%">
 <tr>
-<td width="50%" valign="top">
+<td>
 
-<h3><a href="https://github.com/AhmedIrfan7/UrbanFix_WebApp">:world_map: UrbanFix</a></h3>
+###  :mag_right:  &nbsp; [**Multi-Agent Research Assistant**](https://github.com/AhmedIrfan7/multi-agent-research-assistant)
 
-Civic issue reporting platform — citizens **pin problems on a live map**, upvote issues, and track resolution. Full-stack with auth, dashboards, and **deployed on Vercel**.
+> Four specialized **LangGraph agents** that research a topic together — one searches, one analyzes, one writes, one fact-checks. Full-stack app with a real frontend, not a Jupyter demo.
 
-<img src="https://img.shields.io/badge/Next.js_15-000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" />
-
-</td>
-<td width="50%" valign="top">
-
-<h3><a href="https://github.com/AhmedIrfan7/SuperMarioBros_MASM">:joystick: Super Mario Bros in Assembly</a></h3>
-
-Yes, I built **Super Mario Bros in pure x86 Assembly**. Sprites, physics, collision detection — all in MASM. Because understanding the machine matters.
-
-<img src="https://img.shields.io/badge/x86_Assembly-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white" /> <img src="https://img.shields.io/badge/MASM-003B57?style=flat-square" />
+**`Python`**  &nbsp;·&nbsp;  **`LangGraph`**  &nbsp;·&nbsp;  **`Multi-Agent`**  &nbsp;·&nbsp;  **`Full-Stack`**
 
 </td>
 </tr>
@@ -162,63 +121,140 @@ Yes, I built **Super Mario Bros in pure x86 Assembly**. Sprites, physics, collis
 
 <br/>
 
-<details>
-<summary><b>:file_folder: See more projects</b></summary>
+<!-- Project 3 — Hero -->
+<table width="92%">
+<tr>
+<td>
+
+###  :globe_with_meridians:  &nbsp; [**UrbanFix**](https://github.com/AhmedIrfan7/UrbanFix_WebApp)
+
+> A civic-tech platform where citizens **drop pins on a live map** to report potholes, broken lights, and city issues. Real auth, real database, **deployed on Vercel** for real users.
+
+**`Next.js 15`**  &nbsp;·&nbsp;  **`MongoDB`**  &nbsp;·&nbsp;  **`Leaflet.js`**  &nbsp;·&nbsp;  **`Vercel`**
+
+</td>
+</tr>
+</table>
+
+</div>
+
 <br/>
 
-| Project | What it does | Built with |
-|:--------|:-------------|:-----------|
-| [RACE QuizEngine](https://github.com/AhmedIrfan7/RACE-QuizEngine) | ML reading comprehension system trained on RACE dataset | Python, Scikit-learn, NLP |
-| [Customer Support Workflow](https://github.com/AhmedIrfan7/CustomerSupportWorkflow_N8N) | Auto-classifies and routes support emails from Gmail | N8N, Gmail API |
-| [SmartCity Simulation](https://github.com/AhmedIrfan7/SmartCity-DS-Project) | City simulator using graphs, AVL trees, hash tables & heaps | C++ |
-| [Auth System](https://github.com/AhmedIrfan7/Authentication_System_NextJS_MongoDB) | Secure auth with session management | Next.js, MongoDB |
-| [CRM App](https://github.com/AhmedIrfan7/crm-app) | Customer relationship management tool | JavaScript |
-| [Sonic Classic Heroes](https://github.com/AhmedIrfan7/SonicClassicHeroes) | Classic Sonic game project | C++ |
+<h3 align="center">automation · ai workflows</h3>
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| **[:incoming_envelope: AI Support Router](https://github.com/AhmedIrfan7/AI_Support_Router_N8N)** | **[:books: RAG Pipeline Chatbot](https://github.com/AhmedIrfan7/RAG_Pipeline_Chatbot_N8N)** | **[:memo: LinkedIn Content Creator](https://github.com/AhmedIrfan7/LinkedInContentCreatorN8N)** |
+| Local AI classifies Gmail and routes it to the right team. | Watches Google Drive, indexes new docs, answers questions over them. | Pulls from Sheets, generates posts, queues them. Content on autopilot. |
+| `N8N` `Local LLM` `Gmail` | `N8N` `RAG` `Vector DB` | `N8N` `Sheets` `OpenAI` |
+
+</div>
+
+<br/>
+
+<details align="center">
+<summary><b>:open_file_folder: &nbsp; more in the workshop</b></summary>
+
+<br/>
+
+| Project | What it is |
+|:--------|:-----------|
+| **[RACE QuizEngine](https://github.com/AhmedIrfan7/RACE-QuizEngine)** | Classical ML reading-comprehension system on the RACE dataset |
+| **[Customer Support Workflow](https://github.com/AhmedIrfan7/CustomerSupportWorkflow_N8N)** | Auto-classifies and routes support emails end-to-end |
+| **[Super Mario Bros in x86 ASM](https://github.com/AhmedIrfan7/SuperMarioBros_MASM)** | Mario rebuilt in pure Assembly — sprites, physics, collisions |
+| **[SmartCity Simulation](https://github.com/AhmedIrfan7/SmartCity-DS-Project)** | City simulator over custom DS — graphs, AVL trees, heaps, hash tables |
+| **[Auth System](https://github.com/AhmedIrfan7/Authentication_System_NextJS_MongoDB)** | Production-ready Next.js + MongoDB auth |
+| **[CRM App](https://github.com/AhmedIrfan7/crm-app)** | Lightweight CRM in vanilla JavaScript |
+| **[Sonic Classic Heroes](https://github.com/AhmedIrfan7/SonicClassicHeroes)** | Sonic-style platformer in C++ |
 
 </details>
 
 <br/>
 
-<!-- ─────────────────────────────────────────── -->
+---
 
-## :chart_with_upwards_trend: GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedIrfan7&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1a73e8&text_color=c9d1d9&ring_color=58a6ff" height="180" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedIrfan7&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180" />
-</div>
+<h2 align="center">::  the toolkit  ::</h2>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AhmedIrfan7&theme=transparent&hide_border=true&ring=58a6ff&fire=1a73e8&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681&currStreakNum=c9d1d9&sideNums=c9d1d9" width="55%" />
+
+**AI · Agents · LLMs**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C/white" height="48" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/openai/white" height="48" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48" />
+&nbsp;
+<img src="https://skillicons.dev/icons?i=jupyter&theme=dark" />
+
+<br/><br/>
+
+**Backend · Automation · Infra**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,docker,linux,git,mongodb&theme=dark" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/socketdotio/white" height="48" />
+
+<br/><br/>
+
+**Frontend · Deployment**
+<br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,js,html,css,vercel&theme=dark" />
+
+<br/><br/>
+
+**Systems · Core**
+<br/>
+<img src="https://skillicons.dev/icons?i=cpp,c&theme=dark" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/assemblyscript/007AAC" height="48" />
+
 </div>
 
 <br/>
 
+---
+
+<h2 align="center">::  currently  ::</h2>
+
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedIrfan7&bg_color=0d1117&color=58a6ff&line=1a73e8&point=ffffff&area=true&area_color=1a73e8&hide_border=true" width="90%" />
+
+```diff
++ shipping  multi-agent systems with LangGraph
++ exploring agent memory, tool use, and self-correction loops
++ deploying ai workflows that businesses can actually run
++ open    to AI engineering roles and freelance builds
+```
+
 </div>
 
 <br/>
 
-<!-- ─────────────────────────────────────────── -->
+---
+
+<br/>
 
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%" />
 
-  <br/>
+<sub>:wave: &nbsp; **want to build something together?**</sub>
 
-  **Build it. Ship it. Automate it.**
-  
-  <br/>
+<br/>
 
-  <a href="https://github.com/AhmedIrfan7"><img src="https://img.shields.io/badge/Let's_build_something-58a6ff?style=for-the-badge&logo=github&logoColor=white" /></a>
+[<img src="https://img.shields.io/badge/-let's_talk-58a6ff?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ahmedirfancodes@gmail.com)
+&nbsp;
+[<img src="https://img.shields.io/badge/-see_my_repos-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/AhmedIrfan7?tab=repositories)
 
-  <br/><br/>
+<br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a73e8&height=100&section=footer" width="100%" />
+<sub><i>built with intent · shipped with care</i></sub>
 
 </div>
