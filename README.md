@@ -1,20 +1,12 @@
 <div align="center">
 
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:238636&height=200&section=header&text=Ahmed%20Irfan&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20Engineer%20%C2%B7%20Builder%20%C2%B7%20Shipper&descAlignY=58&descSize=18" width="100%"/>
 
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Multi-Agent+Systems+%7C+LangGraph+%C2%B7+LangChain;RAG+Pipelines+that+never+hallucinate+prices;n8n+Automation+%C2%B7+FastAPI+%C2%B7+Next.js;From+x86+Assembly+to+Autonomous+Agents" alt="Typing SVG" />
+</a>
 
-        █████╗ ██╗  ██╗███╗   ███╗███████╗██████╗     ██╗██████╗ ███████╗ █████╗ ███╗   ██╗
-       ██╔══██╗██║  ██║████╗ ████║██╔════╝██╔══██╗    ██║██╔══██╗██╔════╝██╔══██╗████╗  ██║
-       ███████║███████║██╔████╔██║█████╗  ██║  ██║    ██║██████╔╝█████╗  ███████║██╔██╗ ██║
-       ██╔══██║██╔══██║██║╚██╔╝██║██╔══╝  ██║  ██║    ██║██╔══██╗██╔══╝  ██╔══██║██║╚██╗██║
-       ██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██████╔╝    ██║██║  ██║██║     ██║  ██║██║ ╚████║
-       ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝     ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝
-
-
-                    A I    E N G I N E E R   ·   B U I L D E R   ·   S H I P P E R
-
-
-```
+<br/>
 
 <a href="mailto:ahmedirfancodes@gmail.com"><img src="https://img.shields.io/badge/-ahmedirfancodes@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/AhmedIrfan7"><img src="https://img.shields.io/badge/-AhmedIrfan7-181717?style=flat-square&logo=github&logoColor=white" /></a>
@@ -25,10 +17,10 @@
 
 ```yaml
 name:        Ahmed Irfan
-role:        AI Engineer
-focus:       Multi-agent systems · Workflow automation · Production deployment
+role:        Agentic AI Engineer
+focus:       Multi-agent orchestration · RAG grounding · Workflow automation · Production deployment
 philosophy:  "If it doesn't deploy, it doesn't count."
-status:      [open to opportunities] [shipping daily]
+status:      [open to freelance + full-time] [BSCS @ FAST NUCES, in progress]
 ```
 
 <br/>
@@ -46,10 +38,10 @@ status:      [open to opportunities] [shipping daily]
 ###  :brain:  &nbsp; **Design**
 <br/>
 
-I architect **multi-agent systems** — figuring out how agents should reason, hand off tasks, share memory, and recover from failure.
+I architect **multi-agent systems** — how agents route, retry, hand off tasks, and ground themselves in real data instead of guessing.
 
 `LangGraph` · `LangChain`
-`State machines` · `RAG`
+`RAG` · `Agent Orchestration`
 
 </td>
 <td align="center" width="33%" valign="top">
@@ -57,10 +49,10 @@ I architect **multi-agent systems** — figuring out how agents should reason, h
 ###  :hammer_and_wrench:  &nbsp; **Build**
 <br/>
 
-I build the engine. **WebSocket streaming, FastAPI backends, vector pipelines, tool-calling loops** — the plumbing that makes agents actually work.
+I build the engine underneath. **n8n orchestration, FastAPI backends, vector pipelines, voice + text interfaces** — the plumbing that makes agents actually reliable.
 
 `Python` · `FastAPI`
-`WebSockets` · `MongoDB`
+`n8n` · `FAISS / Qdrant / Pinecone`
 
 </td>
 <td align="center" width="33%" valign="top">
@@ -68,10 +60,10 @@ I build the engine. **WebSocket streaming, FastAPI backends, vector pipelines, t
 ###  :rocket:  &nbsp; **Ship**
 <br/>
 
-I take it from notebook to **production URL** — Next.js frontends, Vercel deployments, N8N automations users actually run.
+I take it from prototype to **something a real user can click** — Next.js frontends, Vercel deployments, live demos, not just notebooks.
 
 `Next.js` · `Vercel`
-`N8N` · `Docker`
+`Docker` · `n8n`
 
 </td>
 </tr>
@@ -92,11 +84,11 @@ I take it from notebook to **production URL** — Next.js frontends, Vercel depl
 <tr>
 <td>
 
-###  :zap:  &nbsp; [**Enterprise Agentic Workflow Engine**](https://github.com/AhmedIrfan7/Enterprise_Agentic_Workflow_Engine)
+###  :speech_balloon:  &nbsp; [**Dental Clinic RAG Voice Assistant**](https://github.com/AhmedIrfan7/n8n_dental_rag_orchestration)
 
-> A production-grade orchestration engine where multiple **LangChain agents** collaborate over **real-time WebSocket streams**. Built so non-engineers can chain together AI workflows that run reliably under load.
+> A voice-and-text AI receptionist built as a **10-workflow multi-agent system in n8n**. One clinic URL in, and it scrapes, extracts facts, and answers patients by fanning a query out to pricing/booking/FAQ agents **in parallel** — grounded enough that 14/14 hallucination-probe evals pass.
 
-**`Python`**  &nbsp;·&nbsp;  **`LangChain`**  &nbsp;·&nbsp;  **`WebSockets`**  &nbsp;·&nbsp;  **`FastAPI`**
+**`n8n`**  &nbsp;·&nbsp;  **`Multi-Agent Orchestration`**  &nbsp;·&nbsp;  **`Qdrant`**  &nbsp;·&nbsp;  **`Voice`**
 
 </td>
 </tr>
@@ -109,11 +101,11 @@ I take it from notebook to **production URL** — Next.js frontends, Vercel depl
 <tr>
 <td>
 
-###  :mag_right:  &nbsp; [**Multi-Agent Research Assistant**](https://github.com/AhmedIrfan7/multi-agent-research-assistant)
+###  :microscope:  &nbsp; [**PEERLESS.AI**](https://github.com/AhmedIrfan7/PeerLess.AI)
 
-> Four specialized **LangGraph agents** that research a topic together — one searches, one analyzes, one writes, one fact-checks. Full-stack app with a real frontend, not a Jupyter demo.
+> Built for the **National AI Hackathon '26**. Seven automated agents surface research-integrity concerns in scientific papers — GRIM checks, statcheck p-value recomputation, DOI verification against Crossref, replication prediction. Findings only, never verdicts; every flag goes to human review.
 
-**`Python`**  &nbsp;·&nbsp;  **`LangGraph`**  &nbsp;·&nbsp;  **`Multi-Agent`**  &nbsp;·&nbsp;  **`Full-Stack`**
+**`Python`**  &nbsp;·&nbsp;  **`Multi-Agent`**  &nbsp;·&nbsp;  **`Streamlit`**  &nbsp;·&nbsp;  **`Groq / LLaMA-3.3`**
 
 </td>
 </tr>
@@ -126,11 +118,11 @@ I take it from notebook to **production URL** — Next.js frontends, Vercel depl
 <tr>
 <td>
 
-###  :globe_with_meridians:  &nbsp; [**UrbanFix**](https://github.com/AhmedIrfan7/UrbanFix_WebApp)
+###  :bar_chart:  &nbsp; [**ResumeIQ**](https://github.com/AhmedIrfan7/hr_resume_screening)  &nbsp;·&nbsp; [**live demo ↗**](https://resume-iq-by-ahmed-irfan.vercel.app/)
 
-> A civic-tech platform where citizens **drop pins on a live map** to report potholes, broken lights, and city issues. Real auth, real database, **deployed on Vercel** for real users.
+> Upload a job description and a stack of resumes, get back a ranked, explainable shortlist in seconds. A two-stage AI pipeline extracts a structured candidate profile, then scores it against the role — plus an AI email assistant that drafts replies but **never sends without a human click**.
 
-**`Next.js 15`**  &nbsp;·&nbsp;  **`MongoDB`**  &nbsp;·&nbsp;  **`Leaflet.js`**  &nbsp;·&nbsp;  **`Vercel`**
+**`n8n`**  &nbsp;·&nbsp;  **`Next.js`**  &nbsp;·&nbsp;  **`OpenAI`**  &nbsp;·&nbsp;  **`Gmail API`**
 
 </td>
 </tr>
@@ -146,9 +138,9 @@ I take it from notebook to **production URL** — Next.js frontends, Vercel depl
 
 | | | |
 |:---:|:---:|:---:|
-| **[:incoming_envelope: AI Support Router](https://github.com/AhmedIrfan7/AI_Support_Router_N8N)** | **[:books: RAG Pipeline Chatbot](https://github.com/AhmedIrfan7/RAG_Pipeline_Chatbot_N8N)** | **[:memo: LinkedIn Content Creator](https://github.com/AhmedIrfan7/LinkedInContentCreatorN8N)** |
-| Local AI classifies Gmail and routes it to the right team. | Watches Google Drive, indexes new docs, answers questions over them. | Pulls from Sheets, generates posts, queues them. Content on autopilot. |
-| `N8N` `Local LLM` `Gmail` | `N8N` `RAG` `Vector DB` | `N8N` `Sheets` `OpenAI` |
+| **[:rocket: Lead Generation System](https://github.com/AhmedIrfan7/LeadGenerationSystem)** &nbsp;·&nbsp; [live ↗](https://lead-generation-system-alpha.vercel.app) | **[:incoming_envelope: AI Support Router](https://github.com/AhmedIrfan7/AI_Support_Router_N8N)** | **[:books: RAG Pipeline Chatbot](https://github.com/AhmedIrfan7/RAG_Pipeline_Chatbot_N8N)** |
+| A spreadsheet row becomes a scraped, redesigned, deployed preview site — zero manual steps, idempotent by construction. | Local AI classifies Gmail and routes it to the right team. | Watches Google Drive, indexes new docs, answers questions over them. |
+| `n8n` `GitHub API` `OpenAI` | `n8n` `Local LLM` `Gmail` | `n8n` `RAG` `Pinecone` |
 
 </div>
 
@@ -161,13 +153,16 @@ I take it from notebook to **production URL** — Next.js frontends, Vercel depl
 
 | Project | What it is |
 |:--------|:-----------|
-| **[RACE QuizEngine](https://github.com/AhmedIrfan7/RACE-QuizEngine)** | Classical ML reading-comprehension system on the RACE dataset |
+| **[German Driving-School Chatbot](https://github.com/AhmedIrfan7/RagPipelineChatBot-GermanDataset)** | Bilingual pricing RAG bot — prices are never LLM-generated, only read from verified sheets. 100% price accuracy, 80 passing tests |
+| **[Multi-Agent Research Assistant](https://github.com/AhmedIrfan7/multi-agent-research-assistant)** | 4 specialized LangGraph agents that research together, streaming answers word-by-word over SSE |
+| **[Enterprise Agentic Workflow Engine](https://github.com/AhmedIrfan7/Enterprise_Agentic_Workflow_Engine)** | LangChain AgentExecutor driving tools live over WebSocket, FAISS-indexed document search |
+| **[UrbanFix](https://github.com/AhmedIrfan7/UrbanFix_WebApp)** &nbsp;·&nbsp; [live ↗](https://urbanfix-eight.vercel.app) | Civic issue tracker — citizens pin problems on a live map, admins manage via dashboard |
+| **[RACE QuizEngine](https://github.com/AhmedIrfan7/RACE-QuizEngine)** | Classical ML reading-comprehension system on the RACE dataset — no LLM, just LR/SVM/NB |
+| **[LinkedIn Content Creator](https://github.com/AhmedIrfan7/LinkedInContentCreatorN8N)** | Pulls topics from Sheets, researches with Tavily, drafts posts — content on autopilot |
 | **[Customer Support Workflow](https://github.com/AhmedIrfan7/CustomerSupportWorkflow_N8N)** | Auto-classifies and routes support emails end-to-end |
-| **[Super Mario Bros in x86 ASM](https://github.com/AhmedIrfan7/SuperMarioBros_MASM)** | Mario rebuilt in pure Assembly — sprites, physics, collisions |
-| **[SmartCity Simulation](https://github.com/AhmedIrfan7/SmartCity-DS-Project)** | City simulator over custom DS — graphs, AVL trees, heaps, hash tables |
-| **[Auth System](https://github.com/AhmedIrfan7/Authentication_System_NextJS_MongoDB)** | Production-ready Next.js + MongoDB auth |
-| **[CRM App](https://github.com/AhmedIrfan7/crm-app)** | Lightweight CRM in vanilla JavaScript |
-| **[Sonic Classic Heroes](https://github.com/AhmedIrfan7/SonicClassicHeroes)** | Sonic-style platformer in C++ |
+| **[Super Mario Bros in x86 ASM](https://github.com/AhmedIrfan7/SuperMarioBros_MASM)** | Mario rebuilt in pure Assembly — physics, sprites, collisions, day/night cycle |
+| **[SmartCity Simulation](https://github.com/AhmedIrfan7/SmartCity-DS-Project)** | City simulator over hand-built graphs, heaps, and hash tables with Dijkstra routing |
+| **[Sonic Classic Heroes](https://github.com/AhmedIrfan7/SonicClassicHeroes)** | Momentum-based Sonic physics engine in C++ with SFML |
 
 </details>
 
@@ -183,22 +178,23 @@ I take it from notebook to **production URL** — Next.js frontends, Vercel depl
 
 **AI · Agents · LLMs**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,jupyter,openai&theme=dark" />
+&nbsp;
 <img src="https://cdn.simpleicons.org/langchain/1C3C3C/white" height="48" />
 &nbsp;
-<img src="https://cdn.simpleicons.org/openai/white" height="48" />
+<img src="https://cdn.simpleicons.org/anthropic/D4A27F" height="48" />
 &nbsp;
 <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=jupyter&theme=dark" />
 
 <br/><br/>
 
-**Backend · Automation · Infra**
+**Backend · Vector Stores · Automation**
 <br/>
 <img src="https://skillicons.dev/icons?i=fastapi,docker,linux,git,mongodb&theme=dark" />
 &nbsp;
 <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/qdrant/DC244C" height="48" />
 &nbsp;
 <img src="https://cdn.simpleicons.org/socketdotio/white" height="48" />
 
@@ -214,7 +210,7 @@ I take it from notebook to **production URL** — Next.js frontends, Vercel depl
 <br/>
 <img src="https://skillicons.dev/icons?i=cpp,c&theme=dark" />
 &nbsp;
-<img src="https://cdn.simpleicons.org/assemblyscript/007AAC" height="48" />
+<img src="https://img.shields.io/badge/x86_Assembly-MASM-000000?style=for-the-badge" height="28"/>
 
 </div>
 
@@ -229,12 +225,20 @@ I take it from notebook to **production URL** — Next.js frontends, Vercel depl
 <div align="center">
 
 ```diff
-+ shipping  multi-agent systems with LangGraph
-+ exploring agent memory, tool use, and self-correction loops
-+ deploying ai workflows that businesses can actually run
-+ open    to AI engineering roles and freelance builds
++ shipping   multi-agent systems with LangGraph and n8n orchestration
++ exploring  agent memory, tool use, and self-correction loops
++ building   RAG pipelines that ground themselves instead of guessing
++ open       to AI engineering roles and freelance builds
 ```
 
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=AhmedIrfan7&theme=dark&hide_border=true&background=0D1117&ring=238636&fire=238636&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </div>
 
 <br/>
